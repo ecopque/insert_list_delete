@@ -24,3 +24,6 @@ while True:
             print('Nada para listar.')
         for i, valor in enumerate(lista):
             print(i, valor)
+
+
+# https://linktr.ee/edsoncopque
